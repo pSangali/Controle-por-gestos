@@ -25,7 +25,7 @@ Controle apresentações usando gestos da mão detectados pela câmera, sem prec
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/pSangali/Python.git
+git clone https://github.com/pSangali/Controle-por-gestos.git
 cd Python
 ```
 
