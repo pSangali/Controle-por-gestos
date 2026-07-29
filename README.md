@@ -1,10 +1,5 @@
 # 🖐️ Controle de Slides por Gestos
 
-![GitHub](https://img.shields.io/github/license/pSangali/Controle-por-gestos)
-![GitHub issues](https://img.shields.io/github/issues/pSangali/Controle-por-gestos)
-![GitHub stars](https://img.shields.io/github/stars/pSangali/Controle-por-gestos)
-![GitHub forks](https://img.shields.io/github/forks/pSangali/Controle-por-gestos)
-
 Controle apresentações usando gestos da mão detectados pela câmera, sem precisar tocar no teclado.
 
 ---
