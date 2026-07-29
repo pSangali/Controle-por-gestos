@@ -1,6 +1,13 @@
 # 🖐️ Controle de Slides por Gestos
 
+![GitHub](https://img.shields.io/github/license/pSangali/Controle-por-gestos)
+![GitHub issues](https://img.shields.io/github/issues/pSangali/Controle-por-gestos)
+![GitHub stars](https://img.shields.io/github/stars/pSangali/Controle-por-gestos)
+![GitHub forks](https://img.shields.io/github/forks/pSangali/Controle-por-gestos)
+
 Controle apresentações usando gestos da mão detectados pela câmera, sem precisar tocar no teclado.
+
+---
 
 ## Como funciona
 
@@ -23,28 +30,23 @@ Controle apresentações usando gestos da mão detectados pela câmera, sem prec
 ## Instalação
 
 ### 1. Clone o repositório
-
 ```bash
 git clone https://github.com/pSangali/Controle-por-gestos.git
 cd Controle-por-gestos
 ```
 
 ### 2. Instale as dependências
-
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Baixe o modelo do MediaPipe
-
 Baixe o arquivo `hand_landmarker.task` e coloque na **mesma pasta** do script:
-
 ```
 https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
 ```
 
 ### 4. Ative o módulo uinput
-
 ```bash
 sudo modprobe uinput
 ```
